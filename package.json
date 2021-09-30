@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "handsontable": "^7.4.2"
+    "handsontable": "^10.0.0"
   }
 }
